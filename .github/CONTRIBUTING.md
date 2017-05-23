@@ -11,7 +11,9 @@ En los proyectos de ngVenezuela, tenemos 2 branches, o ramas por defecto:
 - `master`.
 - `develop`.
 
-Te recomendamos nombrar los branches o ramas de tus colaboraciones para FirebaseVe con el prefijo: `fv` seguido por la convención de tú preferencia. A nosotros nos agrada esta: `<prefijo fv>-<palabra "issue">-<numero de issue>-`.
+Te recomendamos nombrar los branches o ramas de tus colaboraciones para FirebaseVe con el prefijo: `fv` seguido por la convención de tú preferencia. A nosotros nos agrada esta:
+
+`<prefijo fv>-<palabra "issue">-<numero de issue>-`.
 
 Quedaría algo como esto: `fv-issue-14-encuesta`. Pero también es válido algo como esto: `fv-issue-20`.
 
@@ -25,14 +27,14 @@ Tenemos una estructura a seguir, para facilitar la validación de tus contribuci
 
 ````
 
-(<Accion>): <Mensaje Corto>
+<Tipo>(<Ámbito>): <Mensaje Corto>
 <LINEA EN BLANCO>
 <Mensaje Explicativo>
 
 ````
 
  
-El Encabezado:  `tipo(ambíto): <Mensaje Corto>` **es obligatorio**, el resto es opcional. Las acciones disponibles, puedes encontarlas en [Acciones](#acciones), un poco más abajo.
+El Encabezado:  `tipo(ámbito): <Mensaje Corto>` **es obligatorio**, el resto es opcional. Las acciones disponibles, puedes encontarlas en [Acciones](#acciones), un poco más abajo.
 
 Cualquier línea en un mensaje de commit no de ser mayor de 100 caracteres!. Esto permite la fácil lectura de los mensajes tant oen Github como en varias herramientas de git.
 
@@ -83,13 +85,15 @@ El ámbito es el lugar de la aplicación donde se realiza el cambio.
 ## Mensaje
 El mensaje debe contener una descripción clara y concisa del cambio realizado.
 
-Use tiempo presente imperativo, agrega, no agregado ni agregó.
-No capitalizar la primera letra.
-No coloque punto (.) al final
+- Use tiempo presente imperativo, agrega, no agregado ni agregó.
+- No capitalizar la primera letra.
+- No coloque punto (.) al final
 
 _Si quieres proponer un nuevo tipo de "Accion", puedes abrir un `issue`, para ello en este [enlace](https://github.com/firebaseve/firebase-increible/issues)_
 
 
 **_¡Importante!: Las contribuciones que no cumpla con las recomendaciones acá expuestas no será aceptadas._**
+
+_Agradecimientos: Comunidad [ngVenezuela](https://github.com/ngVenezuela) por permitirnos usar su [CONTRIBUTING.md](wengy-ven/blob/develop/.github/CONTRIBUTING.md) como base para el nuestro. ¡Mil gracias! 😎_
 
 
