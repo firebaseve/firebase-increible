@@ -9,7 +9,7 @@ Solo debes leer el archivo `contributing.md`, que encontraras en [este enlace](h
 
 ## Listado de aplicaciones 📋🔥
 
-__Todavía estamos organizandonos 😳_
+__Todavía estamos organizandonos__ 😳
 
 Pero puedes mirar los [issues](https://github.com/firebaseve/firebase-increible/issues) para ayudarnos a terminar más rápido ⚡
 
