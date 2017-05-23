@@ -44,7 +44,7 @@ _Commit corto:_
 `feat(utils): clase Utils para lectura de atributos.`
 
 
-_*Commit largo:*_
+_Commit largo:_
 
 ```
 feat(utils): clase Utils para lectura de atributos.
