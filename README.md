@@ -11,7 +11,15 @@ Solo debes leer el archivo `contributing.md`, que encontraras en [este enlace](h
 
 ## Listado de aplicaciones 📋🔥
 
-__Todavía estamos organizandonos__ 😳
+- Web
+  - [Angular](https://github.com/firebaseve/firebase-increible/blob/develop/angular.md)
+  - [React](https://github.com/firebaseve/firebase-increible/blob/develop/react.md)
+  - [Vue](https://github.com/firebaseve/firebase-increible/blob/develop/vue.md)
+  - [Ember](https://github.com/firebaseve/firebase-increible/blob/develop/ember.md)
+  - [JQuery xD](https://github.com/firebaseve/firebase-increible/blob/develop/jquery.md) 
+  - [Node](https://github.com/firebaseve/firebase-increible/blob/develop/node.md)
+- [Android](https://github.com/firebaseve/firebase-increible/blob/develop/android/android.md)
+- [iOS](https://github.com/firebaseve/firebase-increible/blob/develop/ios/iOS.md)
 
 Pero puedes mirar los [issues](https://github.com/firebaseve/firebase-increible/issues) para ayudarnos a terminar más rápido ⚡
 
