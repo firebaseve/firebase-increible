@@ -21,5 +21,9 @@ Solo debes leer el archivo `contributing.md`, que encontraras en [este enlace](h
 - [Android](https://github.com/firebaseve/firebase-increible/blob/develop/android/android.md)
 - [iOS](https://github.com/firebaseve/firebase-increible/blob/develop/ios/iOS.md)
 
-Pero puedes mirar los [issues](https://github.com/firebaseve/firebase-increible/issues) para ayudarnos a terminar más rápido ⚡
+>## Quieres que tu demo sea listado aquí? :sunglasses:
+>
+>Ingresa a nuestra comunidad en [Telegram](https://t.me/firebaseVe) y compartenos tu proyecto para listarlo ó buscanos en Twitter en nuestra cuenta [@firebaseve](https://twitter.com/firebaseve) y comentanos de tu demo a los #FirePanas
+
+Hazlo divertido y compartelo :smile: !!!
 
